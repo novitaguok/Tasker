@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/menu_delete"
+        android:icon="@drawable/rounded_delete_24"
+        app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/action_mark_complete"
+        android:title="@string/menu_mark_complete"
+        android:icon="@drawable/rounded_check_24"/>
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="hint_title">Title</string>
+    <string name="hint_desc">Description</string>
+    <string name="btn_add_task">Add Task</string>
+</resources>
