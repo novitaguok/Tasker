@@ -1,4 +1,7 @@
 # App Overview
+- You can delete task by long press on the task item, then "Delete"
+- Mark task as complete by long press on the task item, then tap on "Mark as Complete"
+https://github.com/user-attachments/assets/ea8db96d-ec28-4afc-9f76-27a9e621c196
 
 # How to Run App and Unit Test
 NB: You need Android Studio to run the app and unit test. 
